@@ -6,8 +6,8 @@
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node --watch server.js",
-		"start": "node myApp.js"
+		"start": "node --watch server.js"
+
 	},
 	"repository": {
 		"type": "git",
